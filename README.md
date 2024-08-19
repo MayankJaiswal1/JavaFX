@@ -7,4 +7,6 @@ Database
 Firebase
 Firestore
 Authentication
-API
+API     Binding  
+
+   
