@@ -8,5 +8,6 @@ Firebase
 Firestore
 Authentication
 API     Binding  
+Architecture
 
    
