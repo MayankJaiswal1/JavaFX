@@ -12,6 +12,7 @@ Architecture
 JJava concept
 Classes and object  
 Inheritance
-Polymorphism
+Polymorphism  
+Constructor
 
  
