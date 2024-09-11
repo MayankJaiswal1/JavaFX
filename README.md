@@ -14,7 +14,8 @@ Classes and object
 Inheritance
 Polymorphism  
 Constructor
-collection
-CRUD
+collection   
+
+CRUD Operations
 
  
